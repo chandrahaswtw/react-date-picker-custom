@@ -1,0 +1,52 @@
+.gridContainer{
+    display: grid;
+    grid-template-rows: auto 14.4px;
+    grid-row-gap:5px;
+}
+
+.wrapper{
+    position: relative;
+    width: 100%;
+    grid-row: 1 / 2;
+}
+
+.validMessage {
+    grid-row: 2 / 3;
+    padding: 0 5px;
+    font-size: 0.75em;
+    color: #dc3545;
+}
+
+.wrapperIcon {
+    position: absolute;
+    top: 50%;
+    right: 6px;
+    transform: translateY(-50%);
+}
+
+
+.textStyles {
+    width: 100%;
+    border: 1.5px solid #b2bec3;
+    border-radius: 5px;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+
+}
+
+.textStyles:focus {
+    outline: none;
+    box-shadow: 0px 1px 5px 1px #CCC;
+}
+
+.textInValid {
+    border-color: #dc3545;
+}
+
+.textInValid:focus {
+    outline: none;
+    box-shadow: 0px 1px 5px 1px #f87784;
+}
