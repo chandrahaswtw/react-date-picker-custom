@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-date-picker-custom/static/css/main.826be9b3.chunk.css",
+    "main.js": "/react-date-picker-custom/static/js/main.f6b2752e.chunk.js",
+    "main.js.map": "/react-date-picker-custom/static/js/main.f6b2752e.chunk.js.map",
+    "runtime~main.js": "/react-date-picker-custom/static/js/runtime~main.88dbe515.js",
+    "runtime~main.js.map": "/react-date-picker-custom/static/js/runtime~main.88dbe515.js.map",
+    "static/js/2.f0a882f8.chunk.js": "/react-date-picker-custom/static/js/2.f0a882f8.chunk.js",
+    "static/js/2.f0a882f8.chunk.js.map": "/react-date-picker-custom/static/js/2.f0a882f8.chunk.js.map",
+    "index.html": "/react-date-picker-custom/index.html",
+    "precache-manifest.b871c1002621ec08c5b1222c0fab45d1.js": "/react-date-picker-custom/precache-manifest.b871c1002621ec08c5b1222c0fab45d1.js",
+    "service-worker.js": "/react-date-picker-custom/service-worker.js",
+    "static/css/main.826be9b3.chunk.css.map": "/react-date-picker-custom/static/css/main.826be9b3.chunk.css.map"
+  }
+}
